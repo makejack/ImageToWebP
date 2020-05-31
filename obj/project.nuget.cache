@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDOzXGHTKcHRodnmsVEf8G+6JVRvLkHUeiXneYC9u5qJ+ZqTB7HPq++jKMo42e3FyzGyFT63qRi8epymJDA/6A==",
+  "success": true,
+  "projectFilePath": "/Users/lin/Documents/Projects/ImageWebp/ImageWebp.csproj",
+  "expectedPackageFiles": [
+    "/Users/lin/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/lin/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/lin/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/Users/lin/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/lin/.nuget/packages/swashbuckle.aspnetcore/5.4.1/swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "/Users/lin/.nuget/packages/swashbuckle.aspnetcore.swagger/5.4.1/swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "/Users/lin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.4.1/swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "/Users/lin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.4.1/swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512",
+    "/Users/lin/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
+    "/Users/lin/.nuget/packages/webpwrapper/1.0.0/webpwrapper.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
